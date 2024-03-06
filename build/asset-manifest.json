@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Yardenvin/Doit-React/static/css/main.f855e6bc.css",
-    "main.js": "/Yardenvin/Doit-React/static/js/main.1a78cfb1.js",
+    "main.css": "/Yardenvin/Doit-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Yardenvin/Doit-React/static/js/main.a3a8fce2.js",
     "static/js/453.8588b24e.chunk.js": "/Yardenvin/Doit-React/static/js/453.8588b24e.chunk.js",
-    "static/media/logo.svg": "/Yardenvin/Doit-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Yardenvin/Doit-React/index.html",
-    "main.f855e6bc.css.map": "/Yardenvin/Doit-React/static/css/main.f855e6bc.css.map",
-    "main.1a78cfb1.js.map": "/Yardenvin/Doit-React/static/js/main.1a78cfb1.js.map",
+    "main.e6c13ad2.css.map": "/Yardenvin/Doit-React/static/css/main.e6c13ad2.css.map",
+    "main.a3a8fce2.js.map": "/Yardenvin/Doit-React/static/js/main.a3a8fce2.js.map",
     "453.8588b24e.chunk.js.map": "/Yardenvin/Doit-React/static/js/453.8588b24e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1a78cfb1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a3a8fce2.js"
   ]
 }
