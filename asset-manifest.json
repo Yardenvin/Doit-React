@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yardenvin/Doit-React/static/css/main.e6c13ad2.css",
-    "main.js": "/Yardenvin/Doit-React/static/js/main.a3a8fce2.js",
+    "main.js": "/Yardenvin/Doit-React/static/js/main.a1285a64.js",
     "static/js/453.8588b24e.chunk.js": "/Yardenvin/Doit-React/static/js/453.8588b24e.chunk.js",
     "index.html": "/Yardenvin/Doit-React/index.html",
     "main.e6c13ad2.css.map": "/Yardenvin/Doit-React/static/css/main.e6c13ad2.css.map",
-    "main.a3a8fce2.js.map": "/Yardenvin/Doit-React/static/js/main.a3a8fce2.js.map",
+    "main.a1285a64.js.map": "/Yardenvin/Doit-React/static/js/main.a1285a64.js.map",
     "453.8588b24e.chunk.js.map": "/Yardenvin/Doit-React/static/js/453.8588b24e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a3a8fce2.js"
+    "static/js/main.a1285a64.js"
   ]
 }
